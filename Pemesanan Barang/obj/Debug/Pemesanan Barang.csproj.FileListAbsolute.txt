@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Dokumen\Capek Nugas\Semester 3\Perancangan Perangkat Lunak\FP\Pemesanan Barang\Pemesanan Barang\bin\Debug\Pemesanan Barang.exe.config
+C:\Users\asus\OneDrive\Dokumen\Capek Nugas\Semester 3\Perancangan Perangkat Lunak\FP\Pemesanan Barang\Pemesanan Barang\bin\Debug\Pemesanan Barang.exe
+C:\Users\asus\OneDrive\Dokumen\Capek Nugas\Semester 3\Perancangan Perangkat Lunak\FP\Pemesanan Barang\Pemesanan Barang\bin\Debug\Pemesanan Barang.pdb
+C:\Users\asus\OneDrive\Dokumen\Capek Nugas\Semester 3\Perancangan Perangkat Lunak\FP\Pemesanan Barang\Pemesanan Barang\obj\Debug\Pemesanan Barang.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Dokumen\Capek Nugas\Semester 3\Perancangan Perangkat Lunak\FP\Pemesanan Barang\Pemesanan Barang\obj\Debug\Pemesanan Barang.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Dokumen\Capek Nugas\Semester 3\Perancangan Perangkat Lunak\FP\Pemesanan Barang\Pemesanan Barang\obj\Debug\Pemesanan Barang.exe
+C:\Users\asus\OneDrive\Dokumen\Capek Nugas\Semester 3\Perancangan Perangkat Lunak\FP\Pemesanan Barang\Pemesanan Barang\obj\Debug\Pemesanan Barang.pdb
